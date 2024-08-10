@@ -1,0 +1,21 @@
+{
+  "name": "toolsdevler---visual-studio-6-0",
+  "displayName": "ToolsDevler - Visual Studio 6.0",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ToolsDevler - Visual Studio 6.0",
+        "uiTheme": "vs",
+        "path": "./themes/ToolsDevler - Visual Studio 6.0-color-theme.json"
+      }
+    ]
+  }
+}
