@@ -1,0 +1,1 @@
+# vscode-visualstudio6-theme
