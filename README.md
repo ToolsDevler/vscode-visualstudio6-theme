@@ -1,4 +1,4 @@
-# toolsdevler---visual-studio-6-0 README
+# ToolsDevler's Visual Studio 6.0 Theme README
 
 ## Working with Markdown
 
